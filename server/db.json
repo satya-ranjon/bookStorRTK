@@ -1,0 +1,58 @@
+{
+  "books": [
+    {
+      "name": "Slow Horses (Deluxe Edition)",
+      "author": "Mick Herron",
+      "thumbnail": "https://m.media-amazon.com/images/I/51Ga5GuElyL._SX331_BO1,204,203,200_.jpg",
+      "price": 14,
+      "rating": 3,
+      "featured": false,
+      "id": 1
+    },
+    {
+      "name": "The Last Thing He Told Me: A Novel",
+      "author": "Laura Dave",
+      "thumbnail": "https://m.media-amazon.com/images/P/1501171348.01._SCLZZZZZZZ_SX500_.jpg",
+      "price": 13.99,
+      "rating": "4",
+      "featured": false,
+      "id": 2
+    },
+    {
+      "name": "Eloquent JavaScript, 3rd Edition",
+      "author": "Marijn Haverbeke",
+      "thumbnail": "https://m.media-amazon.com/images/I/51InjRPaF7L._SX377_BO1,204,203,200_.jpg",
+      "price": 23.99,
+      "rating": 4,
+      "featured": true,
+      "id": 4
+    },
+    {
+      "name": "Secrets of the JavaScript Ninja",
+      "author": "Josip Maras",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSboVNgy0Tr3AdYGdlNMrFVy8iJk8bX55wCKxiK31JAFXqoGIP",
+      "price": "281",
+      "rating": "5",
+      "featured": true,
+      "id": 5
+    },
+    {
+      "name": "Head First JavaScript Programming",
+      "author": "Eric Freeman, Elisabeth Robson",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAMlceunigqZ7Zxb609dUEy3kOrCXrPbbvUmbu_0AFUVu7ZvTa",
+      "price": "500",
+      "rating": "5",
+      "featured": true,
+      "id": 6
+    },
+    {
+      "name": "JavaScript: The Good Parts",
+      "author": " Douglas Crockford",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQp6GI3zob4xUyx_5Kl20G4SCalP3jM7sYrAkj5CcenGG_x-ozA",
+      "price": "421",
+      "rating": "5",
+      "featured": false,
+      "id": 7
+    }
+  ]
+}
